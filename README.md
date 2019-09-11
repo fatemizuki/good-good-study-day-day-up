@@ -2,9 +2,14 @@
 
 各种python库的学习：
 
-机器学习： /n
-sklearn /n
+机器学习：
 
-爬虫：/n
-requests /n
-beautifulsoup /n
+sklearn 
+
+
+爬虫：
+
+requests 
+
+beautifulsoup 
+
